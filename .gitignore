@@ -35,3 +35,8 @@ env/
 # OS
 .DS_Store
 Thumbs.db
+
+# Screenshots and test files
+screenshot_*.png
+test_game.py
+create_screenshots.py
